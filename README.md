@@ -1,6 +1,6 @@
 # PowerBI - Portfolio Project 1
 ## Business Task
-- To get the most business information from the dateset. 
+- To get the most business information from the dataset. 
 - Make conclusions from charts
 ## Tools
 - Docker
