@@ -1,4 +1,4 @@
-# PBIPortfolio1
+# PowerBI - Portfolio Project 1
 ## Business Task
 - To get the most business information from the dateset. 
 - Make conclusions from charts
