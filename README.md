@@ -1,4 +1,4 @@
-# PowerBI - Portfolio Project 1
+# PowerBI - Job Interview Project
 ## Business Task
 - To get the most business information from the dataset. 
 - Make conclusions from charts
