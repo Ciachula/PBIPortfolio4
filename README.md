@@ -3,7 +3,7 @@
 - To get the most business information from the dataset. 
 - Make conclusions from charts
 ## Dataset
-- Data provided by job interviewer
+- Data in excel file provided by job interviewer
 ## Tools
 - Docker
 - PostgreSQL
